@@ -1,5 +1,5 @@
 # Postgraduate
-Something I used as a graduate student
+
 准研三啦 
 今天第一次使用Github
 记录一下
